@@ -7,22 +7,22 @@ function App() {
     <style>
 
     </style>
-    <Greeting name=" Name: Joshua Gabriel L. Flores"/>
-    <Greeting Age="Age: 21" />
-    <Greeting Description="About me:  Aspiring Game Developer"/>
-    <Greeting Location=" Location: Manila"/>
+    <Greeting name=" Name: Reginald Andrew Misuela"/>
+    <Greeting Age="Age: 20" />
+    <Greeting Description="About me:  Dungeon Master"/>
+    <Greeting Location=" Location: San Mateo, Rizal"/>
 
     <div className='ProfileCard2'>
-    <Greeting name=" Name: John Phoenix"/>
-    <Greeting Age="Age: 30" />
-    <Greeting Description="About me:  Aspiring Software Engineer"/>
-    <Greeting Location=" Location: Los Angeles"/>
+    <Greeting name=" Name: Josef Escarcha"/>
+    <Greeting Age="Age: 22" />
+    <Greeting Description="About me: <3"/>
+    <Greeting Location=" Location: Marikina"/>
 
     <div className='ProfileCard3'>
-    <Greeting name=" Name: Reyna Cruz"/>
-    <Greeting Age="Age: 30" />
-    <Greeting Description="About me:  Aspiring Web Designer"/>
-    <Greeting Location=" Location: San Francisco"/>
+    <Greeting name=" Name: Rex Regius"/>
+    <Greeting Age="Age: 21" />
+    <Greeting Description="About me: Fictional"/>
+    <Greeting Location=" Location: Far Far Away"/>
     </div>
     </div>
    </div>
